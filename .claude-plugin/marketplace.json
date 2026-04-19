@@ -1,0 +1,39 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ui-composition",
+  "description": "Standalone marketplace for the ui-composition Claude Code plugin",
+  "owner": {
+    "name": "Daniel T Sasser II",
+    "email": "contact@dansasser.me",
+    "url": "https://github.com/dansasser"
+  },
+  "plugins": [
+    {
+      "name": "ui-composition",
+      "source": "./",
+      "description": "Modern UI composition skill with curated component knowledge base. Teaches contextual judgment about animation, framework selection, and library mixing. Searches 950+ indexed components across 10+ libraries, falls back to Context7 and GitHub.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Daniel T Sasser II",
+        "email": "contact@dansasser.me",
+        "url": "https://github.com/dansasser"
+      },
+      "keywords": [
+        "ui",
+        "frontend",
+        "animation",
+        "components",
+        "react",
+        "astro",
+        "tailwind",
+        "design",
+        "motion",
+        "scroll-animation",
+        "modern-css",
+        "component-library"
+      ],
+      "category": "development",
+      "homepage": "https://github.com/dansasser/ui-composition"
+    }
+  ]
+}
