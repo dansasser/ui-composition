@@ -1,0 +1,26 @@
+{
+  "name": "ui-composition",
+  "version": "0.1.0",
+  "description": "Modern UI composition skill with curated component knowledge base. Teaches contextual judgment about animation, framework selection, and library mixing. Searches 950+ indexed components across 10+ libraries, falls back to Context7 and GitHub.",
+  "author": {
+    "name": "Daniel T Sasser II",
+    "email": "contact@dansasser.me",
+    "url": "https://github.com/dansasser"
+  },
+  "repository": "https://github.com/dansasser/ui-composition",
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "frontend",
+    "animation",
+    "components",
+    "react",
+    "astro",
+    "tailwind",
+    "design",
+    "motion",
+    "scroll-animation",
+    "modern-css",
+    "component-library"
+  ]
+}
