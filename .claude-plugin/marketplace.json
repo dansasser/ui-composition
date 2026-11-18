@@ -4,7 +4,7 @@
   "description": "Standalone marketplace for the ui-composition Claude Code plugin",
   "owner": {
     "name": "Daniel T Sasser II",
-    "email": "contact@dansasser.me",
+    "email": "contact@gorombo.com",
     "url": "https://github.com/dansasser"
   },
   "plugins": [
@@ -15,7 +15,7 @@
       "version": "0.1.0",
       "author": {
         "name": "Daniel T Sasser II",
-        "email": "contact@dansasser.me",
+        "email": "contact@gorombo.com",
         "url": "https://github.com/dansasser"
       },
       "keywords": [
